@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **DealMart e-commerce Website**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **HTML,CSS,SQL**
+- 💬 Ask me about **Core Java,Advance Java,HTML,CSS,Javascript,SQL**
 
 - 📫 How to reach me **2019icl1danum@gmail.com**
 
