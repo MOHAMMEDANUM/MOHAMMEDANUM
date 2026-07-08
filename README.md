@@ -1,65 +1,88 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MOHAMMEDANUM/MOHAMMEDANUM/main/README-assetsbanner.png" alt="Mohammed Anum Banner" width="100%">
+  <img src="./README-assetsbanner.png" width="100%" alt="Mohammed Anum Banner"/>
 </p>
 
-<h3 align="center">Automation Engineer | Selenium • Playwright • AI Automation (n8n)</h3>
+<h1 align="center">Hi 👋 I'm Mohammed Anum</h1>
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
+<h3 align="center">
+Automation Engineer • Full-Stack Developer • AI Workflow Builder
+</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohammedanum&label=Profile%20views&color=00ff9c&style=flat" alt="mohammedanum" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Automation+Engineer;AI+Workflow+Developer;React+%7C+Spring+Boot+%7C+Supabase;Selenium+%7C+Playwright+%7C+n8n;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/MOHAMMEDANUM">
+<img src="https://img.shields.io/github/followers/MOHAMMEDANUM?label=Followers&style=for-the-badge&color=7c3aed"/>
+</a>
+
+<a href="https://github.com/MOHAMMEDANUM">
+<img src="https://komarev.com/ghpvc/?username=MOHAMMEDANUM&style=for-the-badge&color=7c3aed"/>
+</a>
+
 </p>
 
 ---
 
-* 🔭 Currently working as **Automation Engineer (Client: Apple)**
-* 🤖 Building **AI Automation workflows using n8n + Docker**
-* ⚙️ Working with **Java, Selenium, Playwright, Cucumber, Jenkins**
-* 💻 Building applications using **Spring Boot, React, JavaScript**
-* 📫 Reach me at **[2019icl1danum@gmail.com](mailto:2019icl1danum@gmail.com)**
+# 🚀 About Me
+
+💼 Automation Engineer (Client: Apple)
+
+🤖 Passionate about AI Automation, Workflow Engineering & Full-Stack Development.
+
+⚡ I enjoy building products that eliminate repetitive work through automation and modern software engineering.
+
+### Current Focus
+
+- 🤖 AI Workflow Automation
+- 🌐 Full-Stack Web Development
+- ⚙️ Test Automation
+- ☁️ Cloud Applications
+- 🔥 Scalable System Design
 
 ---
 
-<h3 align="left">Automation + AI Work:</h3>
+# 🛠 Tech Stack
 
-* 🔹 Locale Allocation Automation
-  → Reduced ~1 hour of manual effort using n8n
+## Languages
 
-* 🔹 Recruitment Automation (Royal Aviation)
-  → Gmail → Resume → AI Parsing → Data Structuring → Classification
-  → Extracts candidate data, calculates experience, detects duplicates
-  → Classifies candidates: Ready / Review / Rejected
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript"/>
 
-<h3 align="left">Projects:</h3>
+</p>
 
-* 🔹 Royal Aviation Recruitment
-  https://www.royalaviationrecruitment.com/
+## Frontend
 
-* 🔹 EliteLancer
-  https://elitelancer.netlify.app/
+<p>
 
-* 🔹 WatchTracker
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css"/>
 
----
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Backend
 
-<p align="left">
+<p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+## Database
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
+
+</p>
+
+## Automation
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=selenium,docker,jenkins,git,github"/>
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
@@ -67,27 +90,130 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+# 🤖 AI & Automation Projects
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedanum&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+## ✈️ Royal Aviation Recruitment System
+
+> AI-powered recruitment workflow
+
+### Features
+
+- Resume Parsing
+- Gmail Automation
+- AI Candidate Analysis
+- Duplicate Detection
+- Experience Calculation
+- Google Sheets Integration
+- Candidate Classification
+- End-to-End Workflow using n8n
+
+---
+
+## ⚡ Locale Allocation Automation
+
+Automated a repetitive manual process reducing approximately **1 hour** of manual work using:
+
+- n8n
+- Google Sheets
+- APIs
+- Docker
+
+---
+
+## 💻 AI Code Mentor
+
+AI-powered developer assistant capable of:
+
+- Code Explanation
+- Bug Detection
+- Code Review
+- Optimization Suggestions
+- Multiple LLM Support
+
+---
+
+# 💼 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| ✈️ Royal Aviation Recruitment | AI Recruitment Platform |
+| 💼 EliteLancer | Portfolio & Freelance Management |
+| 📺 WatchTracker | Movie / Anime Tracking Platform |
+| 🤖 AI Code Mentor | AI Code Assistant |
+| ⚡ Automation Workflows | Productivity Automation |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MOHAMMEDANUM&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDANUM&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedanum&show_icons=true&locale=en&theme=tokyonight" />
-</p>
+<p align="center">
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedanum&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMEDANUM&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-<h3 align="left">Focus:</h3>
+# 🏆 GitHub Trophies
 
-* Test Automation
-* AI Workflow Automation
-* CI/CD & DevOps
-* Scalable Systems
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MOHAMMEDANUM&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
 
 ---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMMEDANUM&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohammed-anum">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/MOHAMMEDANUM">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:2019icl1danum@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://elitelancer.netlify.app">
+🌐 Portfolio
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Automate repetitive work, build impactful solutions, and never stop learning."**
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
