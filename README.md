@@ -15,10 +15,6 @@ Automation Engineer • Full-Stack Developer • AI Workflow Builder
 <p align="center">
 
 <a href="https://github.com/MOHAMMEDANUM">
-<img src="https://img.shields.io/github/followers/MOHAMMEDANUM?label=Followers&style=for-the-badge&color=7c3aed"/>
-</a>
-
-<a href="https://github.com/MOHAMMEDANUM">
 <img src="https://komarev.com/ghpvc/?username=MOHAMMEDANUM&style=for-the-badge&color=7c3aed"/>
 </a>
 
@@ -39,8 +35,6 @@ Automation Engineer • Full-Stack Developer • AI Workflow Builder
 - 🤖 AI Workflow Automation
 - 🌐 Full-Stack Web Development
 - ⚙️ Test Automation
-- ☁️ Cloud Applications
-- 🔥 Scalable System Design
 
 ---
 
