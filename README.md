@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/MOHAMMEDANUM/MOHAMMEDANUM/main/README-assetsbanner.png" alt="Mohammed Anum Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohammed Anum</h1>
 <h3 align="center">Automation Engineer | Selenium • Playwright • AI Automation (n8n)</h3>
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
