@@ -193,7 +193,7 @@ AI-powered developer assistant capable of:
 </a>
 
 <a href="https://elitelancer.netlify.app" target="_blank">
-  <img src="https://raw.githubusercontent.com/MOHAMMEDANUM/EliteLancer/main/favicon.svg" width="40" alt="EliteLancer"/>
+  <img src="https://raw.githubusercontent.com/MOHAMMEDANUM/MOHAMMEDANUM/main/favicon.svg" width="40" alt="EliteLancer"/>
 </a>
 
 </p>
