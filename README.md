@@ -1,4 +1,6 @@
-[![MasterHead](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:00ff9c\&height=200\&section=header\&text=MOHAMMED%20ANUM\&fontSize=40\&fontColor=ffffff)]()
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MOHAMMEDANUM/MOHAMMEDANUM/main/README-assets/banner.png" alt="Mohammed Anum Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mohammed Anum</h1>
 <h3 align="center">Automation Engineer | Selenium • Playwright • AI Automation (n8n)</h3>
