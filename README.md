@@ -208,7 +208,7 @@ AI-powered developer assistant capable of:
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile! ⭐ 
 
 </p>
 
