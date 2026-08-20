@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 I'm Mohammed Anum</h1>
 
 <h3 align="center">
-Automation Engineer • Full-Stack Developer • AI Workflow Builder
+Automation Engineer • Full-Stack Developer • AI Workflow Builder 
 </h3>
 
 <p align="center">
